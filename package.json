@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "@anthony16t/mongodb",
+  "version": "1.0.3",
+  "description": "Mongodb package, made to be fast and simple to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthony16t/mongodb"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "db",
+    "anthony16t"
+  ],
+  "author": "anthony16t",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.5.0"
+  }
+}
